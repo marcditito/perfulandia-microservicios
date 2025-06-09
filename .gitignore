@@ -1,0 +1,23 @@
+# Maven
+/target
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.class
+*.swp
+
+# Otros
+**/node_modules/
